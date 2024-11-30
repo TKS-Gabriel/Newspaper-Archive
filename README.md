@@ -1,0 +1,1 @@
+This is my private repository for storing and organizing PDF versions of archived newspapers. It serves as a personal collection where I can easily access, manage, and reference various newspaper editions and articles.
